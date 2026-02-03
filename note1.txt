@@ -1,1 +1,2 @@
-DELETE ALL
+NotesApp - initial file
+quick note
